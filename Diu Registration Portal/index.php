@@ -125,7 +125,7 @@
 						<input  type="text" name="name"> 
 						<input  type="submit"  name="submit" value="Search"> 
 					    </form> 
-					    <a href="developer.php" class="btn btn-primary custom-btn pull-right">Developer</a>
+					    <a href="https://github.com/MdAshrafulIslam1998" class="btn btn-primary custom-btn pull-right">Developer</a>
                         <a href="add.php" class="btn btn-primary custom-btn pull-right">Add New Student</a>
                         
                     </div>
