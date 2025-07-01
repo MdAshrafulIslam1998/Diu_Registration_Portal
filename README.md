@@ -17,9 +17,6 @@ Our team has created a web portal to track the registration status. An advisor c
 student, delete a student record, Update the record, see registration status, update 
 registration status, see student details, and search by id and name on this portal.
 
-# Site link
-The DIU registration portal URL : https://diuregistration.theurbanbangla.com
-
 # Documentation
 - Parent Domain : The site is a subdomain of our parent domain called “theurbanbangla.com”. 
 The site and the hosting server belongs to our team - “Team Brotherhood”
